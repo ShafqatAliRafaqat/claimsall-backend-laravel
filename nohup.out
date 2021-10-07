@@ -1,0 +1,49 @@
+[33m[2018-07-31 13:08:44][5] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-07-31 13:08:51][5] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:38:53][6] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:39:02][6] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:39:02][7] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:39:08][7] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:41:14][8] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:41:19][8] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:41:59][9] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:42:04][9] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:42:49][10] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:42:55][10] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:43:16][11] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:43:21][11] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:45:25][12] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:45:31][12] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:47:16][13] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:47:22][13] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 19:52:26][14] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:52:32][14] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 20:00:34][16] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 20:00:40][16] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 20:06:08][17] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 20:06:14][17] Processed: [39m App\Jobs\SendVerificationEmail
+[37;41m      queue:flush                  [39;49m
+[37;41m      queue:forget                 [39;49m
+[37;41m      queue:listen                 [39;49m
+[37;41m      queue:restart                [39;49m
+[37;41m      queue:retry                  [39;49m
+[37;41m      queue:table                  [39;49m
+[37;41m      queue:work                   [39;49m
+[37;41m                                   [39;49m
+
+
+[37;41m                                         [39;49m
+[37;41m  Not enough arguments (missing: "id").  [39;49m
+[37;41m                                         [39;49m
+
+[33m[2018-08-06 19:54:31][15] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 19:54:38][15] Processed: [39m App\Jobs\SendVerificationEmail
+[33m[2018-08-06 20:11:19][19] Processing:[39m App\Jobs\SendVerificationEmail
+[32m[2018-08-06 20:11:25][19] Processed: [39m App\Jobs\SendVerificationEmail
+[2018-08-15 15:28:58][3865] Processing: App\Jobs\SendVerificationEmail
+[2018-08-15 15:29:04][3867] Processing: App\Jobs\SendVerificationEmail
+[2018-08-15 15:29:08][3869] Processing: App\Jobs\SendVerificationEmail
+[2018-08-15 15:29:14][3871] Processing: App\Jobs\SendVerificationEmail
+[2018-08-15 15:29:19][3873] Processing: App\Jobs\SendVerificationEmail
+[2018-08-15 15:29:24][3875] Processing: App\Jobs\SendVerificationEmail
+[2018-08-15 15:29:29][3877] Processing: App\Jobs\SendVerificationEmail
